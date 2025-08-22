@@ -8,7 +8,7 @@ import { Button, Alert } from "heroui-vue";
             <Alert
                 color="success"
                 title="Hello, world!"
-                description="Power by Vue and HeroUI Theme"
+                description="Power by Vue3 and HeroUI Theme"
             ></Alert>
             <Button color="primary">Click me</Button>
         </div>
