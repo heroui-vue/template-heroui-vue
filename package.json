@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@heroui/theme": "^2.4.20",
     "@tailwindcss/vite": "^4.1.12",
     "heroui-vue": "latest",
     "tailwindcss": "^4.1.12",
